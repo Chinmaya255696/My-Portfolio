@@ -14,10 +14,10 @@ const Contact = () => {
     <div> <Navbar />
     <HeroImg2 
       heading="CONTACT."
-      text="Lets have a chat"
-    />
+      text="Lets have a chat"/>
     <Form/>
-    <Footer /></div>
+    <Footer />
+    </div>
   )
 }
 

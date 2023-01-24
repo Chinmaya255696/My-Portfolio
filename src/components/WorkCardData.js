@@ -1,7 +1,6 @@
 const ProjectCardData = [
   {
-    imgsrc:
-      "https://s3.envato.com/files/322642273/Preview%20Image/02_preview2.png",
+    imgsrc:"https://s3.envato.com/files/322642273/Preview%20Image/02_preview2.png",
     title: "Ecommerce and cart - Management",
     tech_stacks:"JavaScript,Nodejs,Expressjs,MongoDB,AWS-S3,JWT,Bcrypt.",
     text: "Created the Backend for a complete Shopping app which included various APIs for user, cart, order & products. Used JWT for authentication of protected APIs & AWS S3 for uploading Images. Passwords are stored in encrypted manner using Bcrypt package. Sensitive API's are backed by authorization check.",

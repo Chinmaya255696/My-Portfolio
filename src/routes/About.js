@@ -11,8 +11,7 @@ const About = () => {
       <Navbar />
       <HeroImg2 
         heading="ABOUT."
-        text="I am an aspiring  FullStack Devloper "
-      />
+        text="I am an aspiring  FullStack Devloper "/>
       <AboutContent/>
       <Footer />
     </div>
